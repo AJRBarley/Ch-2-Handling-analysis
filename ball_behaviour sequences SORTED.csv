@@ -1,0 +1,4 @@
+﻿MagID,sex,age,treatment,attackYN,Behaviour1,Behaviour2,Behaviour3,Behaviour4,Behaviour5,Behaviour6
+46u,u,j,n,1,peck,finish,NA,NA,NA,NA
+25a,f,a,t,1,peck,finish,NA,NA,NA,NA
+43j,j,j,t,1,peck,peck,reorient,peck,finish,NA

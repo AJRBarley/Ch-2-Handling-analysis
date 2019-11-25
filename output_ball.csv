@@ -1,0 +1,4 @@
+bird_ID,object,t,consume,s,k,N,n_off,p_1,q_1_1,t,p_2,q_1_2,q_2_2,t_1_2,m,m_r,m_c,A,Sc,St,Jc,Jt,B,Rt,Rab,m_dS,s_dS,cv_dS,m_dL,s_dL,cv_dL,m_hue,s_hue,var_hue,m_sat,s_sat,cv_sat,m_lum,s_lum,cv_lum
+25a-t0,b,t,0,u,1,124500,0,1,1,0,NA,NA,NA,NA,0,0,0,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43j-t0,b,t,0,f,2,124500,500,0.748,0.745485944,NA,0.252,0.004016064,0.250497992,1,0.003333333,0.006666667,0,Inf,1.605115825,1,0.802557913,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46u-n0,b,n,0,u,1,124500,0,1,1,0,NA,NA,NA,NA,0,0,0,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
